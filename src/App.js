@@ -11,8 +11,9 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://api.whatsapp.com/send?text=https://sleepy-franklin-87c3f4.netlify.app"
+          href="https://api.whatsapp.com/send?text=https://redstoredenny.000webhostapp.com"
           target="_blank"
+          rel="noopener noreferrer"
         >
           share
         </a>
