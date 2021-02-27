@@ -11,11 +11,10 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://api.whatsapp.com/send?text=https://redstoredenny.000webhostapp.com"
           target="_blank"
-          rel="noopener noreferrer"
         >
-          Learn React
+          share
         </a>
       </header>
     </div>
