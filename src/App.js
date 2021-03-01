@@ -30,10 +30,10 @@ function App() {
 
 <Helmet>
   <title>Users App</title>
-  <meta property="og:title" content="Users App" />
-  <meta property="og:url" content="https://sleepy-franklin-87c3f4.netlify.app/" />
-  <meta property="og:description" content="asd"/>
-  <meta property="og:image" content="http://webdevelopmentscripts.com/post-images/685b-change-browser-address-bar-color-chrome-android.jpeg"/>
+  <meta property="og:title" content="Users App">
+  <meta property="og:url" content="https://sleepy-franklin-87c3f4.netlify.app/">
+  <meta property="og:description" content="asd">
+  <meta property="og:image" content="http://webdevelopmentscripts.com/post-images/685b-change-browser-address-bar-color-chrome-android.jpeg">
 </Helmet>
    </>
   );
